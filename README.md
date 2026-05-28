@@ -38,9 +38,11 @@ It also provides live temperature monitoring and WiFi connection feedback.
 | Jumper Wires | Multiple |
 
 ---
+## System Architecture
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/d63fe284-d6c5-400a-a918-c4ac434f8e1a" />
 
 ## Pin Configuration
-
+---
 | Component | ESP32 Pin |
 |---|---|
 | Relay 1 | GPIO 23 |
@@ -54,6 +56,9 @@ It also provides live temperature monitoring and WiFi connection feedback.
 | DHT11 | GPIO 4 |
 | IR Receiver | GPIO 35 |
 | WiFi LED | GPIO 2 |
+
+
+<img width="1536" height="1024" alt="ChatGPT Image May 28, 2026, 07_02_21 PM" src="https://github.com/user-attachments/assets/eb710553-7390-436a-9c09-5b583d9e2727" />
 
 ---
 
