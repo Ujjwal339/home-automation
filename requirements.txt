@@ -1,0 +1,6 @@
+ArduinoIoTCloud
+Arduino_ConnectionHandler
+DHT sensor library
+IRremote
+Adafruit Unified Sensor
+WiFi
