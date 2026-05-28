@@ -19,11 +19,11 @@
 #include <DHT.h>
 #include <IRremote.h>
 
-const char DEVICE_LOGIN_NAME[]  = "2686cbcb-393d-440a-b013-b07aaddd6d30"; //Enter DEVICE ID
+const char DEVICE_LOGIN_NAME[]  = "XXXXXXXXXX"; //Enter DEVICE ID
 
-const char SSID[]               = "IIITM 9";    //Enter WiFi SSID (name)
-const char PASS[]               = "12345678";    //Enter WiFi password
-const char DEVICE_KEY[]         = "6IQtvleZg56CafaJyY0oa8IDW";    //Enter Secret device password (Secret Key)
+const char SSID[]               = "XXXXX";    //Enter WiFi SSID (name)
+const char PASS[]               = "XXXXXXXX";    //Enter WiFi password
+const char DEVICE_KEY[]         = "XXXXXXXXX";    //Enter Secret device password (Secret Key)
 
 #define DHTPIN              4 //D4  pin connected with DHT
 #define IR_RECV_PIN         35 //D35 pin connected with IR Receiver IC
